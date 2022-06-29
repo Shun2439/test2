@@ -1,1 +1,1 @@
-flag{congrat!}
+flag{Congrats!}
